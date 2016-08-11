@@ -1,0 +1,13 @@
+{
+  "name": "gl-info",
+  "description": "get GPU parameters through webGL",
+  "version": "0.0.0",
+  "keywords": [
+    "webgl",
+    "gpu"
+  ],
+  "repository": "github.com:Ramshackle-Jamathon/gl-info.git",
+  "author": "Joseph Van Drunen <josephvandrunen@gmail.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
